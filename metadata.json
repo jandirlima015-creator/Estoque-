@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Estoque",
+  "description": "Aplicativo para contagem, ajuste e monitoramento de estoque de produtos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
